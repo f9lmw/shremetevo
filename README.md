@@ -1,5 +1,8 @@
 Stack: Java, Swing, MapView, Gradle 
+
 Самый наглядный MarkLayerTestActivity.java 
+
+
 Build apk'a: repositories {
     maven {
         url "https://jitpack.io"
